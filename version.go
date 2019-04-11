@@ -5,5 +5,5 @@ import (
 )
 
 func Version() {
-	fmt.Println("I am version is 1.x!")
+	fmt.Println("I am version is 2.x!")
 }
